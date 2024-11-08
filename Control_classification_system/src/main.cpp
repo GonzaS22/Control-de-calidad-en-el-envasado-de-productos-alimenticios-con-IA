@@ -9,10 +9,6 @@ const int pinLED = 13;
 //Se crea un objeto de tipo servo utilizado para controlar el servomotor
 Servo servoMotor; 
 
-//char option_last; 
-
-//int barrier_flag = 0; 
-
 void setup() 
 {
   //Se inicia la comunicación serial a una velocidad de 9600 baudios
